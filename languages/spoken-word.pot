@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-wp-i18n\n"
+
+#: src/components/PlaybackControls.js:132
+msgid "Spoken Word"
+msgstr ""
+
+#: src/components/PlaybackControls.js:135
+msgid "Rate:"
+msgstr ""
+
+#: src/components/PlaybackControls.js:150
+msgid "Pitch:"
+msgstr ""
+
+#: src/components/PlaybackControls.js:165
+msgid "Close"
+msgstr ""
+
+#: src/components/PlaybackControls.js:180
+msgid "Text to Speech"
+msgstr ""
+
+#: src/components/PlaybackControls.js:186
+msgid "Pause"
+msgstr ""
+
+#: src/components/PlaybackControls.js:186
+msgid "Play"
+msgstr ""
+
+#: src/components/PlaybackControls.js:190
+msgid "Previous"
+msgstr ""
+
+#: src/components/PlaybackControls.js:191
+msgid "Forward"
+msgstr ""
+
+#: src/components/PlaybackControls.js:193
+msgid "Settings"
+msgstr ""
+
+#: src/components/PlaybackControls.js:78
+msgid "Voice (%s):"
+msgstr ""
+
+#: src/components/PlaybackControls.js:94
+msgid "%s (%s)"
+msgstr ""
